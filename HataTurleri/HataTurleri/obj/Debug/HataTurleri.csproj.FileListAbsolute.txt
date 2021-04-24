@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\YenidenC#\4.23.2021\HataTurleri\HataTurleri\bin\Debug\HataTurleri.exe.config
+C:\Users\User\Desktop\YenidenC#\4.23.2021\HataTurleri\HataTurleri\bin\Debug\HataTurleri.exe
+C:\Users\User\Desktop\YenidenC#\4.23.2021\HataTurleri\HataTurleri\bin\Debug\HataTurleri.pdb
+C:\Users\User\Desktop\YenidenC#\4.23.2021\HataTurleri\HataTurleri\obj\Debug\HataTurleri.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\YenidenC#\4.23.2021\HataTurleri\HataTurleri\obj\Debug\HataTurleri.Form1.resources
+C:\Users\User\Desktop\YenidenC#\4.23.2021\HataTurleri\HataTurleri\obj\Debug\HataTurleri.Properties.Resources.resources
+C:\Users\User\Desktop\YenidenC#\4.23.2021\HataTurleri\HataTurleri\obj\Debug\HataTurleri.csproj.GenerateResource.cache
+C:\Users\User\Desktop\YenidenC#\4.23.2021\HataTurleri\HataTurleri\obj\Debug\HataTurleri.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\YenidenC#\4.23.2021\HataTurleri\HataTurleri\obj\Debug\HataTurleri.exe
+C:\Users\User\Desktop\YenidenC#\4.23.2021\HataTurleri\HataTurleri\obj\Debug\HataTurleri.pdb
